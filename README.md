@@ -144,11 +144,6 @@ Student [id=101, name=John Doe, marks=85.5]
 - [ ] Implement database connectivity
 - [ ] Add grade calculation features
 
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Thanks to Elevate Labs for the project structure
